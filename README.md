@@ -2,3 +2,4 @@
 Moj prvy projekt
 
 Skusam GitHub.
+Upravený.
