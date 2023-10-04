@@ -2,3 +2,7 @@ body {
     color: gray;
     background-image: url('Wind.jpg');
 }
+
+img {
+    border: 2px solid blue;
+}
